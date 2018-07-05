@@ -1,0 +1,12 @@
+div.hoverToShow button{
+    display:none;
+}
+
+.hoverToShow:hover button{
+    display:block;
+}
+
+
+.fullLong {
+    width: 98%;
+}
